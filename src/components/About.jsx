@@ -6,7 +6,7 @@ function About() {
             <div className="body-container" id="about">
                 <div className="card">
                     <img className="avatar" alt="kratos" src={kratos}/>
-                    <img className="avatar img-top" alot="kratos2" src={kratos2}/>
+                    <img className="avatar img-top" alt="kratos2" src={kratos2}/>
 
                 </div>
 
