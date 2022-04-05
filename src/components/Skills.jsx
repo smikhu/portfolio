@@ -20,29 +20,29 @@ function Skills() {
 
                     <div className="skills-left">
 
-                        <p className="skills-images"><img className="skills" src={html}></img> HTML </p>
-                        <p className="skills-images"><img className="skills" src={css}></img> CSS </p>
+                        <p className="skills-images"><img className="skills" alt="html" src={html}></img> HTML </p>
+                        <p className="skills-images"><img className="skills" alt="css" src={css}></img> CSS </p>
 
                     </div>
 
                     <div className="skills-left">
 
-                        <p className="skills-images"><img className="skills" src={javascript}></img> JavaScript </p>
-                        <p className="skills-images"><img className="skills" src={mongo}></img> MongoDB </p>
+                        <p className="skills-images"><img className="skills" alt="javascript" src={javascript}></img> JavaScript </p>
+                        <p className="skills-images"><img className="skills" alt="mongodb" src={mongo}></img> MongoDB </p>
 
                     </div>
 
                     <div className="skills-right">
 
-                        <p className="skills-images"><img className="skills" src={node}></img> NodeJS/Express </p>
-                        <p className="skills-images"><img className="skills" src={react}></img> React </p>
+                        <p className="skills-images"><img className="skills" alt="node" src={node}></img> NodeJS/Express </p>
+                        <p className="skills-images"><img className="skills" alt="react" src={react}></img> React </p>
 
                     </div>
 
                     <div className="skills-right">
 
-                        <p className="skills-images"><img className="skills" src={postgresql}></img> PostgreSQL </p>
-                        <p className="skills-images"><img className="skills" src={python}></img> Python </p>
+                        <p className="skills-images"><img className="skills" alt="postgresql" src={postgresql}></img> PostgreSQL </p>
+                        <p className="skills-images"><img className="skills" alt="python" src={python}></img> Python </p>
 
                     </div>
 

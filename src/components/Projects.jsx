@@ -34,7 +34,7 @@ function Projects() {
                     <SwiperSlide>
 
                         <div className="left">
-                            <a target="_blank" href="https://smikhu.github.io/Gwent-Pairs/"><img src={witcher} className="swiper-image"/> </a>
+                            <a target="_blank" rel="noreferrer" href="https://smikhu.github.io/Gwent-Pairs/"><img src={witcher} alt="witcher" className="swiper-image"/> </a>
                         </div>
 
                         <div className="right">
@@ -47,7 +47,7 @@ function Projects() {
                     <SwiperSlide>
 
                         <div className="left">
-                            <a target="_blank" href="https://east-coast-boogie.herokuapp.com/"><img src={ecb} className="swiper-image"/> </a>
+                            <a target="_blank" rel="noreferrer" href="https://east-coast-boogie.herokuapp.com/"><img src={ecb} alt="eastcoastboogie" className="swiper-image"/> </a>
                         </div>
 
                         <div className="right">
@@ -60,7 +60,7 @@ function Projects() {
                     <SwiperSlide>
 
                         <div className="left">
-                            <a target="_blank" href="https://smikhu-project2.herokuapp.com/chelsea"><img src={bib} className="swiper-image"/> </a>
+                            <a target="_blank" rel="noreferrer" href="https://smikhu-project2.herokuapp.com/chelsea"><img src={bib} alt="boysinblue" className="swiper-image"/> </a>
                         </div>
 
                         <div className="right">
@@ -73,7 +73,7 @@ function Projects() {
                     <SwiperSlide>
 
                         <div className="left">
-                            <a target="_blank" href="https://wonderful-beaver-3ecebb.netlify.app/page1"><img src={amalgam} className="swiper-image"/> </a>
+                            <a target="_blank" rel="noreferrer" href="https://wonderful-beaver-3ecebb.netlify.app/page1"><img src={amalgam} alt="amalgamcomics" className="swiper-image"/> </a>
                         </div>
 
                         <div className="right">
@@ -86,7 +86,7 @@ function Projects() {
                     <SwiperSlide>
 
                         <div className="left">
-                            <a target="_blank" href="https://pirates-project.herokuapp.com/"><img src={pirates} className="swiper-image"/> </a>
+                            <a target="_blank" rel="noreferrer" href="https://pirates-project.herokuapp.com/"><img src={pirates} alt="pirates" className="swiper-image"/> </a>
                         </div>
 
                         <div className="right">
