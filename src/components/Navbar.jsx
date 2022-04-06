@@ -7,10 +7,10 @@ function Navbar() {
         <div className="navbar">
             <nav>
                 <ul>
-                    <li><ScrollLink offset={-80} to="about">About</ScrollLink></li>
-                    <li><ScrollLink offset={-100} to="skills">Skills</ScrollLink></li>
-                    <li><ScrollLink offset={-100} to="projects">Projects</ScrollLink></li>
-                    <li><ScrollLink offset={-100} to="contact">Contact</ScrollLink></li>
+                    <li><ScrollLink offset={-90} to="about">About</ScrollLink></li>
+                    <li><ScrollLink offset={-110} to="skills">Skills</ScrollLink></li>
+                    <li><ScrollLink offset={-110} to="projects">Projects</ScrollLink></li>
+                    <li><ScrollLink offset={-110} to="contact">Contact</ScrollLink></li>
                 </ul>
             </nav>
         </div>
