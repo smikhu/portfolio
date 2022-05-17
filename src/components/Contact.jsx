@@ -7,6 +7,7 @@ import gmail from '../images/gmail.png'
 function Contact() {
     return (
         <div className="contact-container" id="contact">
+            <p>&lt;contact&gt;</p>
             <div className="contact-title">
                 <h2>Contact</h2>
                 <p>Want to get in contact with me for a good time? 😉</p>
@@ -20,6 +21,8 @@ function Contact() {
                             <a className="socials-link socials" rel="noreferrer" target="_blank" href="https://github.com/smikhu">GITHUB<img className="social-icon" alt="github" src={github}></img></a>
                     </div>
             </div>
+            
+            <p>&lt;/contact&gt;</p>
         </div>
     )
 }

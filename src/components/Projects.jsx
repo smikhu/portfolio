@@ -15,6 +15,9 @@ import pirates from '../images/pirates.png'
 function Projects() {
     return (
         <div className="projects-container" id="projects">
+
+            <p>&lt;projects&gt;</p>
+            
             <div className="projects-title">
                 <h2>Projects</h2>
                 <p className="projects-info">Below are some of my projects that I created during my time with the League of Shadows as well as my own time after my training was complete. I have decided not to make any changes or update any of these projects to show my growth.</p>
@@ -96,6 +99,10 @@ function Projects() {
                         </div>
                     </SwiperSlide>
                 </Swiper>
+
+
+            <p>&lt;/projects&gt;</p>
+
 
         </div>
     )
