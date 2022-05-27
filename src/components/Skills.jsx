@@ -10,8 +10,7 @@ import python from '../images/python.png'
 function Skills() {
     return (
         <div className="skills-container" id="skills">
-
-        <p>&lt;skills&gt;</p>    
+ 
         
         <div className="skills-title">
                 <h2>Skills</h2>
@@ -50,7 +49,6 @@ function Skills() {
 
                 </div>
             
-                <p>&lt;/skills&gt;</p>
 
         </div>
     )

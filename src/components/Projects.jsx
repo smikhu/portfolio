@@ -16,7 +16,7 @@ function Projects() {
     return (
         <div className="projects-container" id="projects">
 
-            <p>&lt;projects&gt;</p>
+            
             
             <div className="projects-title">
                 <h2>Projects</h2>
@@ -101,7 +101,7 @@ function Projects() {
                 </Swiper>
 
 
-            <p>&lt;/projects&gt;</p>
+    
 
 
         </div>
