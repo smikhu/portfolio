@@ -8,7 +8,7 @@
 
 h2 {
   text-transform: uppercase;
-  color: orangered;
+  color: violet;
 }
 
 
@@ -27,7 +27,7 @@ nav {
   align-items: center;
   transition: 0.5s;
   padding: 25px 25px;
-  background-color: orangered;
+  background-color: violet;
   border: 2px solid black;
   border-radius: 5px;
 }
@@ -84,7 +84,7 @@ nav ul li a:hover {
 }
 
 .name {
-  color: orangered;
+  color: violet;
   font-weight: 900;
 }
 
@@ -129,7 +129,7 @@ nav ul li a:hover {
 
 .swiper-image:hover {
   right: -30px;
-  box-shadow: 5px 5px 30px 5px orangered;
+  box-shadow: 5px 5px 30px 5px violet;
   transition: 0.6s;
 }
 
@@ -149,7 +149,7 @@ nav ul li a:hover {
 
 .swiper-button-next,
 .swiper-button-prev {
-    color: orangered !important;
+    color: violet !important;
     
 }
 
@@ -166,11 +166,11 @@ nav ul li a:hover {
 }
 
 .swiper-pagination-bullet-active {
-  background-color: orangered !important;
+  background-color: violet !important;
 }
 
 .swiper-scrollbar-drag {
-  background-color: orangered !important;
+  background-color: violet !important;
 }
 
 /* SKILLS */
@@ -221,7 +221,7 @@ nav ul li a:hover {
 
 .skills-images:hover {
   transform: scale(1.1);
-  background-color: orangered;
+  background-color: violet;
   color: white;
   box-shadow: 2px 2px 15px 0px black;
 }
@@ -254,7 +254,7 @@ nav ul li a:hover {
 }
 
 .email:hover {
-  background-color: orangered;
+  background-color: violet;
   color: white;
   transition: 0.7s;
 }
@@ -276,7 +276,7 @@ nav ul li a:hover {
 }
 
 .socials:hover {
-  background-color: orangered;
+  background-color: violet;
   color: white;
   transition: 0.7s;
 }
@@ -358,7 +358,7 @@ nav ul li a:hover {
   .swiper-image:hover {
     right: 0px;
     top: -10px;
-    box-shadow: 5px 5px 15px 1px orangered;
+    box-shadow: 5px 5px 15px 1px violet;
     transition: 0.6s;
   }
 }
